@@ -4,6 +4,14 @@
 
 This repository contains an interactive Power BI dashboard built using the Adventure Works dataset. The dashboard provides insightful analytics on revenue, orders, customer segmentation, and product performance. The primary goal of this project is to demonstrate data visualization techniques, business intelligence capabilities, and key performance metrics for better decision-making.
 
+## Features:
+
+Navigation Bar: Created a dashboard page for all the navigation bar and added to the every pages for easy movement between different dashboards.
+
+Interactive Visuals: Users can filter data dynamically.
+
+KPIs & Trends: Insights into revenue, orders, and return rates.
+
 ## 📊 Key Insights
 
 #### Overall Business Performance
@@ -54,18 +62,12 @@ Top Customer: Mr. Maurice Shan, generating $12.4K in revenue with 130 orders.
 
 #### 📂 Files in this Repository
 
-Adventure_Works.pbix - Power BI dashboard file
+<a href="[Adventure_Works.pbix](https://github.com/marvellousekpen/Adventure-Works/blob/main/Adventure.pbix)">Adventure_Works</a> - Power BI dashboard file
 
-Dataset.xlsx - Processed dataset used for analysis
+<a href="https://github.com/marvellousekpen/Adventure-Works/tree/main/AdventureWorks%20Raw%20Data"> AdventureWorksRawData</a>- Processed dataset used for analysis
 
-README.md - This file with project documentation
-
-Images/ - Screenshots of the Power BI dashboard
-
-🛠️ Tools Used
+#### 🛠️ Tools Used
 
 Power BI for data visualization
 
-SQL for data extraction and transformation
 
-Excel for data preprocessing
