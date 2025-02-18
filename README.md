@@ -63,9 +63,7 @@ Top Customer: Mr. Maurice Shan, generating $12.4K in revenue with 130 orders.
 
 #### 📂 Files in this Repository
 
-<a href="[Adventure_Works.pbix](https://github.com/marvellousekpen/Adventure-Works/blob/main/Adventure.pbix)"> Adventure_Works</a> - Power BI dashboard file
-[Adventure_Works.pbix](https://github.com/marvellousekpen/Adventure-Works/blob/main/Adventure_Works.pbix)
-
+[Adventure_Works.pbix](https://github.com/marvellousekpen/Adventure-Works/blob/main/Adventure_Works.pbix) - Power BI dashboard file
 
 <a href="https://github.com/marvellousekpen/Adventure-Works/tree/main/AdventureWorks%20Raw%20Data"> AdventureWorksRawData</a>- Processed dataset used for analysis
 
