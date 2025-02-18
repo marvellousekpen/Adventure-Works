@@ -7,7 +7,7 @@ This repository contains an interactive Power BI dashboard built using the Adven
 ## Features:
 
 Navigation Bar: Created a homepage with a navigation bar and added to every page for easy movement between different dashboards.
-[AdventureWorksHomepage.png](https://github.com/marvellousekpen/Adventure-Works/blob/main/AdventureWorksHomepage.png)
+![AdventureWorksHomepage.png](https://github.com/marvellousekpen/Adventure-Works/blob/main/AdventureWorksHomepage.png)
 
 Interactive Visuals: Users can filter data dynamically.
 
